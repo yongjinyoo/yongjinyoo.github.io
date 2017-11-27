@@ -1,6 +1,6 @@
-# Hydejack Starter Kit
+# Yongjin Yoo
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://qwtel.com/hydejack/).
+Script Archieve 
 
 ## Quick Start
 ### Running locally

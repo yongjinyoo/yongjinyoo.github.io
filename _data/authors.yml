@@ -3,18 +3,19 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Yongjin> <Yoo>
+  email:             <yongjinyoo@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Yongjin Yoo
+    Ph.D student.
+    Functional genomics lab (Department of Biomedical science, Seoul National University)
 
-    Open `_data/authors.yml` to edit this text.
-
+    Functional genomics lab: `genomics.snu.ac.kr`
+    Blog on Wordpress: `yjyoo.wordpress.com`
+    
   # This photo will be used in the about section.
   picture:
     path:            https://placehold.it/128x128
@@ -26,9 +27,9 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         <username>
-    github:          <username>
-    download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
+    # twitter:         
+    github:          yongjinyoo
+    download:        https://github.com/yongjinyoo/yongjinyoo.github.io.git/master.zip
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -66,18 +67,17 @@ author1:
     # paypal:          <username>
 
 # Another author
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# author2:
+#  name:              <firtname> <lastname>
+#  email:             <mail@domain.tld>
+#  about:             |
+#    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+#  picture:           https://placehold.it/128x128
+#  twitter:           <username>
+#  github:            <username>
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.

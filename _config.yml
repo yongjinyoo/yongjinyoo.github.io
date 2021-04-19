@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yongjin Yoo"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "Live a little more astutely"
   location         : "Stanford University"
   employer         :
